@@ -1,1 +1,3 @@
-*.ipynb linguist-detectable=true
+*.ipynb linguist-detectable=Python
+*.ipynb linguist-detectable=Jupyter Notebook
+
